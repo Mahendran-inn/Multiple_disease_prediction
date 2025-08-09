@@ -178,13 +178,13 @@ def kidney():
     
     return best_model, df_kidney
 
-'''
-
 similarly my other diseases predicted
+
+```
 
 ## 🌐 Streamlit Web App Script
 
-'''Streamlit
+```Streamlit
 
 import streamlit as st
 from streamlit_option_menu import option_menu
